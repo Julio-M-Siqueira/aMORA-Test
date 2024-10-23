@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: aMora
+Version: 1.0.0
+Summary: Real Estate Pricing Model API
+Author: Júlio
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Requires-Dist: fastapi
+Requires-Dist: httpx
+Requires-Dist: joblib
+Requires-Dist: pandas
+Requires-Dist: pydantic
+Requires-Dist: pytest
+Requires-Dist: python-multipart
+Requires-Dist: scikit-learn
+Provides-Extra: dev
+Requires-Dist: tox; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-asyncio; extra == "dev"
+Requires-Dist: virtualenv; extra == "dev"

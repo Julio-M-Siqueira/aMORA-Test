@@ -1,0 +1,14 @@
+fastapi
+httpx
+joblib
+pandas
+pydantic
+pytest
+python-multipart
+scikit-learn
+
+[dev]
+tox
+pytest
+pytest-asyncio
+virtualenv

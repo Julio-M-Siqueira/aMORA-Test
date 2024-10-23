@@ -1,0 +1,10 @@
+README.md
+setup.py
+API/__init__.py
+API/api.py
+aMora.egg-info/PKG-INFO
+aMora.egg-info/SOURCES.txt
+aMora.egg-info/dependency_links.txt
+aMora.egg-info/requires.txt
+aMora.egg-info/top_level.txt
+tests/test_api.py
